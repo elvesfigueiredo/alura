@@ -1,0 +1,8 @@
+package PrimeiroProgramaEmJava;
+// Crie uma classe chamada Estudos para imprimir anotações de estudos no console.
+public class Estudos {
+    public static void main(String[] args) {
+        System.out.println("JVM (Java Virtual Machine) - é a Máquina Virtual do Java responsável por executar o bytecode");
+        System.out.println("JRE (Java Runtime Environmet) - Ambiente de Execução do Java que fornece as bibliotecas padrões do Java");
+    }
+}
